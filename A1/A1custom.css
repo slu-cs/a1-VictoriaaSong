@@ -1,0 +1,14 @@
+.DARKBLUE{
+  background: #778899;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.STEELBLUE{
+  text: #4682B4;
+}
