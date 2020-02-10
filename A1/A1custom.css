@@ -2,6 +2,10 @@
   background: #778899;
 }
 
+.TITLE{
+  font-size: 40px;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -9,6 +13,39 @@
   width: 50%;
 }
 
-.STEELBLUE{
-  text: #4682B4;
+.DARKGREY.nav-link.active{
+  background: #2F4F4F;
+  color: #ffffff;
+}
+
+
+.list {
+
+  margin-left: 15%;
+  margin-top: 5%;
+
+}
+
+.DARKGREY{
+  color: #2F4F4F;
+}
+
+.content{
+  margin-top: 5%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  color: #2F4F4F;
+}
+
+.inlistcontent{
+
+  text-align: center;
+  margin-left: auto;
+  margin-right: 15%;
+  width: 30%;
+
+  color: #2F4F4F;
 }
