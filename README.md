@@ -14,7 +14,7 @@ Overall comments on grading questions:
     - For the most part, yes.
     - The home page isn't called index.html, which is the traditional name.
     - The home page has only an image, which is pretty but information-free.
-    - Some dates & deadlines are presented in tables, which is nice, but others aren't.
+    - Remember there is a table tag, which you should use when presenting tabular data.
 
 3) Are the pages tolerably styled with Bootstrap?
     - Styling needs some work.
