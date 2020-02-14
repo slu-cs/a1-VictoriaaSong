@@ -15,6 +15,7 @@ Overall comments on grading questions:
     - The home page isn't called index.html, which is the traditional name.
     - The home page has only an image, which is pretty but information-free.
     - Remember there is a table tag, which you should use when presenting tabular data.
+    - Pages with internal navigation could begin with the first link active to avoid otherwise empty pages.
 
 3) Are the pages tolerably styled with Bootstrap?
     - Styling needs some work.
